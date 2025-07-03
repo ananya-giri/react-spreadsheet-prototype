@@ -2,6 +2,9 @@
 
 ✅ A React + TypeScript project that recreates a spreadsheet prototype based on Figma design.
 
+🚀 Live Demo
+Click here to view: https://react-spreadsheet-prototype.vercel.app/
+
 ## 🔥 Features
 - Pixel-perfect Figma design
 - Spreadsheet table with:
@@ -33,5 +36,4 @@ npm run dev
 npm run lint
 npm run type-check
 
-🚀 Live Demo
-Click here to view: https://react-spreadsheet-prototype.vercel.app/
+
