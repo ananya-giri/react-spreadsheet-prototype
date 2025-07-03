@@ -30,6 +30,8 @@ npm install
 npm run dev
 
 ✅ Lint & Type Check
-```bash
 npm run lint
 npm run type-check
+
+🚀 Live Demo
+Click here to view: https://react-spreadsheet-prototype.vercel.app/
