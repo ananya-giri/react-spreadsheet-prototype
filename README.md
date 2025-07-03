@@ -27,7 +27,7 @@ Click here to view: https://react-spreadsheet-prototype.vercel.app/
 
 ## 🛠️ Installation & Run Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-spreadsheet-prototype.git
+git clone https://github.com/ananya-giri/react-spreadsheet-prototype.git
 cd react-spreadsheet-prototype
 npm install
 npm run dev
